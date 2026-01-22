@@ -1,2 +1,2 @@
 # ApplicationObserver
-Application Observer to narzędzie obserwacyjne napisane w Pythonie, zaprojektowane do monitorowania działających aplikacji backendowych (np. FastAPI) bez konieczności ingerencji w ich kod. Projekt skupia się na runtime observation, analizie zachowania aplikacji w czasie oraz wykrywaniu stopniowej degradacji wydajności.
+Application Observer is an observability tool written in Python, designed to monitor running backend applications (e.g. FastAPI) without requiring any modifications to their source code. The project focuses on runtime observation, analysis of application behavior over time, and detection of gradual performance degradation.
