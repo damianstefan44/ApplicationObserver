@@ -2,6 +2,10 @@ from dataclasses import dataclass
 
 @dataclass
 class MetricSnapshot:
+    """
+    Represents a single snapshot of process metrics at a point in time.
+    """
+
     timestamp: float
     pid: int
     cpu: float
